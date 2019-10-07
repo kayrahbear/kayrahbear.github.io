@@ -1,7 +1,9 @@
 .main-container {
+    margin-top: 5%;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.75em;
     font-weight: lighter;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
@@ -10,17 +12,12 @@ a {
     font-weight: bold;
 }
 
-.img-container {
-    margin-top: 10%;
-    display: flex;
-    max-height: 400px;
-}
-
-.text-container {
-    display: flex;
+.lil-kayla-image {
+    margin: auto;
+    height: 450px;
 }
 
 .main-text{
-    width: 500px;  /* Or whatever */
+    max-width: 500px;
     margin: auto;
 }
