@@ -1,0 +1,23 @@
+.main-container {
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: #ea552a;
+    font-weight: bold;
+}
+
+.lil-kayla-image {
+    margin: auto;
+    height: 450px;
+}
+
+.main-text{
+    max-width: 500px;
+    margin: auto;
+}
